@@ -1,0 +1,3 @@
+# TODO: Create an Azure DevOps pipeline that builds the \Examples\Infragistics.Samples.WPF.sln using MSBuild (because of .net 4)
+
+# TODO: additionally, accomodate the pipeline to also build \Applications\All.Applications.sln in the same way
